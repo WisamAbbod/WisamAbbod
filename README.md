@@ -1,7 +1,7 @@
 Hi 👋 My name is Wisam Abbod
 ============================
 
-I am currently a Computer Science student and aspiring Software Engineer.
+I am currently a First Year Computer Science student and aspiring Software Engineer.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [wisamabbod06@gmail.com](mailto:wisamabbod06@gmail.com)
